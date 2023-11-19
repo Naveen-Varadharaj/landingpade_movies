@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/landingpade_movies/static/css/main.272b2d09.css",
-    "main.js": "/landingpade_movies/static/js/main.7d4765f0.js",
-    "static/media/squidgame.jfif": "/landingpade_movies/static/media/squidgame.f4c6a93c7ce79ceac46c.jfif",
-    "static/media/shift.jfif": "/landingpade_movies/static/media/shift.047d05acf100bd41fc33.jfif",
-    "static/media/harrypotter.jfif": "/landingpade_movies/static/media/harrypotter.09a96d17f142b6ade697.jfif",
-    "static/media/transformers.jfif": "/landingpade_movies/static/media/transformers.115a0e77bbfa2052436a.jfif",
-    "static/media/images.jfif": "/landingpade_movies/static/media/images.e8d9a88364fcceb54abb.jfif",
-    "static/media/mowgli.jfif": "/landingpade_movies/static/media/mowgli.23444aa4b79387bb9e13.jfif",
-    "index.html": "/landingpade_movies/index.html",
-    "main.272b2d09.css.map": "/landingpade_movies/static/css/main.272b2d09.css.map",
-    "main.7d4765f0.js.map": "/landingpade_movies/static/js/main.7d4765f0.js.map"
+    "main.css": "/landingpage_movies/static/css/main.b206c2f0.css",
+    "main.js": "/landingpage_movies/static/js/main.7d4765f0.js",
+    "static/media/squidgame.jfif": "/landingpage_movies/static/media/squidgame.f4c6a93c7ce79ceac46c.jfif",
+    "static/media/shift.jfif": "/landingpage_movies/static/media/shift.047d05acf100bd41fc33.jfif",
+    "static/media/harrypotter.jfif": "/landingpage_movies/static/media/harrypotter.09a96d17f142b6ade697.jfif",
+    "static/media/transformers.jfif": "/landingpage_movies/static/media/transformers.115a0e77bbfa2052436a.jfif",
+    "static/media/images.jfif": "/landingpage_movies/static/media/images.e8d9a88364fcceb54abb.jfif",
+    "static/media/mowgli.jfif": "/landingpage_movies/static/media/mowgli.23444aa4b79387bb9e13.jfif",
+    "index.html": "/landingpage_movies/index.html",
+    "main.b206c2f0.css.map": "/landingpage_movies/static/css/main.b206c2f0.css.map",
+    "main.7d4765f0.js.map": "/landingpage_movies/static/js/main.7d4765f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.272b2d09.css",
+    "static/css/main.b206c2f0.css",
     "static/js/main.7d4765f0.js"
   ]
 }
